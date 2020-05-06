@@ -1,5 +1,5 @@
 Authlib==0.14.2
-boto3==1.11.6
+boto3==1.13.4
 Click==7.0
 connexion==2.5.1
 Flask==1.1.1
