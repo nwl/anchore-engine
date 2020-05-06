@@ -31,6 +31,6 @@ urllib3==1.25.9
 watchdog==0.10.2
 Werkzeug==1.0.1
 yosai==0.3.2
-zope.component==4.6
+zope.component==4.6.1
 zope.interface==4.7.1
 ijson==2.5.1
