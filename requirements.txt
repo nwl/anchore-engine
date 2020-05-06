@@ -3,7 +3,7 @@ boto3==1.13.4
 Click==7.1.2
 connexion==2.7.0
 Flask==1.1.2
-jsonschema==2.6.0
+jsonschema==3.2.0
 passlib==1.7.2
 pathlib==1.0.1
 pg8000==1.10.6
